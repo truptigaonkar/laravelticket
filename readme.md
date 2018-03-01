@@ -48,6 +48,6 @@ Database: laravelticket
 A ticket belong to a category and a category has many tickets.
 A comment belongs to a ticket and a ticket has many comments 
 
-
-
+TICKET SYSTEM
+![ticketsystem](https://user-images.githubusercontent.com/14937374/36847021-3760b314-1d5d-11e8-9532-85c7d5ac9bfb.png)
 
